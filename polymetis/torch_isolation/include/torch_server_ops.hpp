@@ -7,7 +7,7 @@
 
 #include <map>
 #include <vector>
-#include <cstddef>
+#include <cstddef> // added for size_t
 
 #ifdef __cplusplus
 extern "C" {
